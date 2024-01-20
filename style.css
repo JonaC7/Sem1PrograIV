@@ -1,0 +1,18 @@
+h1{
+    color: brown;
+}
+h2{
+    color: brown;
+}
+p{
+    color: rgb(222, 28, 28);
+    font-style: italic;
+}
+li{
+    color: rgb(222, 28, 28);
+    font-style: italic;
+}
+#Booton1{
+    color: rgb(100, 1, 1);
+    background-color: rgb(255, 80, 80);
+}
